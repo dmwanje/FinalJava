@@ -4,7 +4,5 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="src" level="project" />
-    <orderEntry type="library" name="jackson_databind_2_10_1" level="project" />
   </component>
 </module>
