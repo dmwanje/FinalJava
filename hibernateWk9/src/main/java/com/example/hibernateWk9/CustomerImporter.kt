@@ -6,7 +6,7 @@ class CustomerImporter {
         String jdbcURL = "jdbc:mysql://localhost:3386/HibernateWk9Schema";
         String username = "root";
         String password = "Fl3tch2021";
-        String excelFilePath = ""
+        String excelFilePath = "";
 
 
     }

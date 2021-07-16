@@ -10,127 +10,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfe88f30-e44c-4fd6-9aeb-dd8535f8b479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BasicJSON/.idea/libraries/jackson_databind_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/JUnitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JUnitTest/src/HIgher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekFourProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekFourProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekFourProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeekFourProject/WeekFourProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/dynamicDatabaseController.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/src/main/java/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamicDatabaseController/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hibernateWk9_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hibernateWk9_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BikeStoresSampleDatabase_create_objects.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BikeStoresSampleDatabase_drop_all_objects.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BikeStoresSampleDatabase_load_data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bikestore.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hibernateWk9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernateWk9/CustomerImporter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernateWk9/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/artifacts/servlet_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/artifacts/servlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/artifacts/servletFinal_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/artifacts/servletFinal_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_javaee_api_8_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_jws_javax_jws_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_xml_soap_javax_xml_soap_api_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__javax_xml_ws_jaxws_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/servletFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/java/com/example/servletFinal/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/java/com/example/servletFinal/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/java/com/example/servletFinal/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletFinal/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servletWeekSeven/servletWeekSeven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../weekEight/src/com/mwanje/basicthreads/DoingSomething.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../weekEight/weekEight.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicJSON/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicJSON/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasicJSON/BasicJSON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicJSON/BasicJSON.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookInventory" beforeDir="false" afterPath="$PROJECT_DIR$/../BookInventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekFour/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hsqldb_hsqldb_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateApp9/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../basicjson-1" beforeDir="false" afterPath="$PROJECT_DIR$/../basicjson-1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../basicjson-2" beforeDir="false" afterPath="$PROJECT_DIR$/../basicjson-2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../servlet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hibernateWk9/CustomerImporter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hibernateWk9/CustomerImporter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,19 +85,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.66" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.66" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="hibernateWk9:war exploded">
@@ -238,6 +134,7 @@
       <updated>1623276726803</updated>
       <workItem from="1623276728926" duration="794000" />
       <workItem from="1623448842609" duration="4657000" />
+      <workItem from="1624416551493" duration="145000" />
     </task>
     <servers />
   </component>

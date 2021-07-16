@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d99a061-81f2-4a07-a7b8-c2f7a25b0d6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/FinalCSProject/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/artifacts/FinalProjectJava_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/artifacts/FinalProjectJava_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/HibernateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/HibernateRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/LibraryModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/RegistrationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProjectJava/src/main/java/com/mwanje/FinalProject/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastHibernate/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/artifacts/MyFinalProjectClientServer_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/artifacts/MyFinalProjectClientServer_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/MyFinalProjectClientServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/src/main/java/com/mwanjeCS/MyFinalProjectClientServer/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFinalCS/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doing_more_with_java/doing_more_with_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookInventory" beforeDir="false" afterPath="$PROJECT_DIR$/../BookInventory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalJava/FinalJava/src/main/java/com/mwanje/LibServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalJava/FinalJava/src/main/java/com/mwanje/LibServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalJava/FinalJava/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_hsqldb_hsqldb_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProjectJava/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateApp9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateApp9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastHibernate/LastHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastHibernate/LastHibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicjson-1" beforeDir="false" afterPath="$PROJECT_DIR$/../basicjson-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicjson-2" beforeDir="false" afterPath="$PROJECT_DIR$/../basicjson-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateWk9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateWk9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernateWk9/src/main/java/com/example/hibernateWk9/CustomerImporter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernateWk9/src/main/java/com/example/hibernateWk9/CustomerImporter.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vP58Yz6BWNAcy3uF9yGTs1KGxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.66" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.66" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="FinalCSProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/FinalCSProject_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FinalCSProject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d99a061-81f2-4a07-a7b8-c2f7a25b0d6f" name="Default Changelist" comment="" />
+      <created>1626450727258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626450727258</updated>
+      <workItem from="1626450729139" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
