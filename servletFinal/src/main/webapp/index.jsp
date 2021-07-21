@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello Week Seven!" %>
+<h1><%= "Welcome to my final project!" %>
 </h1>
 <br/>
 <p>To invoke the Java Servlet click <a href="${pageContext.request.contextPath}/Servlet">here</a></p>
